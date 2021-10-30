@@ -19,7 +19,8 @@ El grupo de sistemas 601, durante las clases virtuales en confinamiento se reali
   <img src="https://user-images.githubusercontent.com/93245466/139516725-ef1b940d-0ce3-4ca0-b831-49038ee255df.jpeg" />
 </p>
 
-                          https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
+https://drive.google.com/file/d/1TbbPpBD3iBXsFh3r_fQAk8rUYikZVc35/view?usp=sharing
+
 
 ---
 ## Planeación
@@ -55,4 +56,14 @@ El grupo de sistemas 601, durante las clases virtuales en confinamiento se reali
 - Yahel Andrés Muñoz Martinez
 - Marco Antonio Egay Martinez Mendoza
 
-Video de Presentación 
+---
+## Video de Presentación 
+
+[![Watch the video](https://user-images.githubusercontent.com/93245466/139517841-7257bc43-ec0b-4994-be5b-a695e092d128.PNG)](https://user-images.githubusercontent.com/93245466/139517841-7257bc43-ec0b-4994-be5b-a695e092d128.PNG)
+
+
+
+
+
+
+
